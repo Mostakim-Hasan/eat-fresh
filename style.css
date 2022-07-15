@@ -47,3 +47,10 @@ h2 {
 .section-2 {
     background-image: url(images/Frame\ 57.jpg);
 }
+
+.section-3 {
+    text-align: center;
+    display: block;
+    padding-left: 400px;
+    padding-right: 400px;
+}
